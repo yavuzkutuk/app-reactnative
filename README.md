@@ -15,6 +15,11 @@
 - [React Native](https://reactnative.dev)
 - [React Navigation](https://reactnavigation.org)
 - [React Native Paper](https://callstack.github.io/react-native-paper/)
+- [Expo vector icons](https://www.npmjs.com/package/@expo/vector-icons) - [Ressources Expo icons](https://icons.expo.fyi/)
+
+## Tutos
+
+- [Camera](https://www.freecodecamp.org/news/how-to-create-a-camera-app-with-expo-and-react-native/)
 
 ## UML
 
