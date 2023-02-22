@@ -49,7 +49,7 @@ const Login = () => {
             label: 'Déconnectez-vous',
             onPress: () => {
               setIsLogin(false);
-              navigation.navigate('Home');
+              navigation.navigate('Login');
             },
           }}
         >
