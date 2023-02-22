@@ -1,5 +1,3 @@
-![alt structure](structure.png)
-
 ## Prerequisites
 
 1. Check expo.dev is installed
@@ -17,3 +15,7 @@
 - [React Native](https://reactnative.dev)
 - [React Navigation](https://reactnavigation.org)
 - [React Native Paper](https://callstack.github.io/react-native-paper/)
+
+## UML
+
+![alt structure](structure.png)
