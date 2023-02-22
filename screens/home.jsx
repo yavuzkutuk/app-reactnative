@@ -1,13 +1,14 @@
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View, Button } from 'react-native';
 import React from 'react';
 
 // Sections
 import Articles from '../sections/home/articles';
 
-const Home = () => {
+const Home = ({ navigation }) => {
   return (
     <View style={styles.container}>
       <Articles />
+      <Button title="Profil" onPress={() => navigation.navigate('Profil')} />
     </View>
   );
 };
